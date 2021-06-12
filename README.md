@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Orbix</h1>
+<h1>Orbit</h1>
 <blockquote>💖 Terminal spinner and progress bar library for Hilbish.</blockquote>
 Orbit is a small and simple Lua library to add spinners and progress bars to terminal
 apps. It works with Hilbish only since it uses functions provided by it.<br><br>
